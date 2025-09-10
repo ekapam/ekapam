@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **WordPress, PHP**
 
-- 📫 How to reach me **email.me@gmail.com**
+- 📫 How to reach me **soy.ricardo.ambriz@gmail.com**
 
 - 📄 Know about my experiences [https://ricardoambriz.com](https://ricardoambriz.com)
 
